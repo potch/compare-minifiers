@@ -2,7 +2,7 @@ JS/CSS Minifier Benchmarker
 
 To use:
 
-1. Add files you want tested to the approperiate folder (js\_files or css\_files).
+1. Add files you want tested to the appropriate folder (js\_files or css\_files).
 2. Add minifiers you want to the compilers.py
 
 
